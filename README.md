@@ -1,8 +1,4 @@
-# IT Automation
-
-Documenting the skills and technologies I'm currently exploring and mastering.
-
-## Current Focus
+## Current Objectives
 
 1. **Manipulate Files and Processes with Python**
    - Use Python to interact with the operating system.
