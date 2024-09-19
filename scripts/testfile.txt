@@ -1,5 +1,6 @@
-Hello
-Goodbye
-Morning
-Afternoon
-Evening
+Hello,
+How are you?
+My name is John.
+Beautiful day isn't it?
+Have a great day!
+Goodbye!
