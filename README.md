@@ -1,3 +1,5 @@
+**THE FOLLOWING IS DONE ON WSL2**
+
 ## Current Objectives
 
 1. **Manipulate Files and Processes with Python**
@@ -33,4 +35,6 @@
 10. **Data Serialization**
     - Use data serialization to send messages between programs.
     - Formats: JSON, XML, YAML
+
+
 
