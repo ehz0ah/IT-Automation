@@ -2,7 +2,7 @@ import re
 
 log = "July 31 07:51:48 mycomputer bad_process[12345]: ERROR Performing package upgrade"
 regex = r"\[(\d+)\]"  # This regular expression matches a string enclosed in square brackets followed by one or more digits
-result = re.search(regex, log)  # Search the string log for a match to the regular expression
+result = re.search(regex, log)  # Search the string log for a match to the regular expression, returns a Match object or None
 print(result[1])
 
 # The grep command on the CLI
